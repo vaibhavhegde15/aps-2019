@@ -1,6 +1,6 @@
 <h2>Pascal's triangle:</h2> 
 <h3>Recursive:</h3> 
-	&#09;Space complexity: O(nk)<br>
+	Space complexity: O(nk)<br>
 	Time complexity: O(nk)<br>
 <h3>Dynamic:</h3> 
 	Space complexity: O(n)<br>
