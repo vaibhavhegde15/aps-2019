@@ -1,11 +1,11 @@
-<h3>Pascal's triangle:</h3> 
-Recursive: 
+<h2>Pascal's triangle:</h2> 
+<h3>Recursive:</h3> 
 	Space complexity: O(nk)
 	Time complexity: O(nk)<br>
-Dynamic: 
+<h3>Dynamic:</h3> 
 	Space complexity: O(n)
 	Time complexity: O(nk)<br>
-Learner DP:
+<h3>Learner DP:</h3>
 	Space complexity: increses linearly with k
 	Time complexity: O(nk)
 
